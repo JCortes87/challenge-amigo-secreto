@@ -14,6 +14,9 @@
 
     `Video de ejemplo` https://github.com/user-attachments/assets/845e7305-c1bc-4507-90be-a7174fa6b368
 
+- `Nota`: Una vez se sortee el amigo, el listado de amigos se reiniciará para poder ingresar nuevamente los nombres de tus amigos y volver a sortear
+  
+
 ## 💻 Tecnologías utilizadas
 ✔️ JavaScript <br>
 ✔️ HTML <br>
